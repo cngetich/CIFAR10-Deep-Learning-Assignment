@@ -9,8 +9,11 @@ This project compares:
 - TensorFlow Simple Neural Network
 - TensorFlow CNN
 
-## Dataset
+## Dataset used
 CIFAR-10 Kaggle Dataset
+
+Download separately from:
+https://www.kaggle.com/c/cifar-10/data
 
 ## Results
 | Framework | Model | Accuracy |
